@@ -4,8 +4,8 @@
   "height": "600", //sets height
   "symbolsGroups": [
     {
-      "name": "Indices",
-      "originalName": "Indices",
+      "name": "Holdings",
+      "originalName": "Holdings",
       "symbols": [
         {
           "name": "FOREXCOM:SPXUSD",
